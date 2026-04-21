@@ -1,30 +1,64 @@
-# Merhaba, Ben Hüseyin Ahmet Altun! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hüseyin%20Ahmet%20Altun&fontSize=65&animation=fadeIn&fontAlignY=40&desc=Sürekli%20Öğrenen%20Bir%20Yapay%20Zeka%20Öğrencisi&descAlignY=65&descSize=22" />
+</div>
 
-### Yapay Zeka Operatörlüğü Öğrencisi | Yapay Zeka & Optimizasyon Meraklısı
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Sonsuz+Ogrenme+Meraki;Her+Gun+Yeni+Bir+Bilgi;Python+ile+Derinlere+In;Once+Mantigini+Kavra!" alt="Typing SVG" />
+</p>
 
-Yapay Zeka Operatörlüğü bölümünde öğrenciyim. Yapay zeka dünyasında, modelleri sadece hazır olarak kullanmakla kalmayıp, işin temel mantığını kavramaya ve "önce eğitim, sonra çalıştırma" felsefesine odaklanıyorum. Verilerden anlamlı sonuçlar çıkarmayı ve sistemleri optimize etmeyi seviyorum.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ai-huseyin&label=Profil+Ziyareti&color=0e75b6&style=flat" alt="Görüntülenme Sayacı" />
+</p>
 
----
+### 🧠 Ben Kimim & Öğrenme Felsefem
 
-### 🚀 Neler Yapıyorum & Deneyimlerim
+Teknoloji dünyasında "oldum" demek yerine **"daha ne öğrenebilirim?"** demeyi tercih eden bir Yapay Zeka Operatörlüğü öğrencisiyim. Benim için asıl başarı, bir modeli sadece hazır kodlarla çalıştırmak değil; arka planda dönen çarkları, veri yapılarını ve algoritmaların temel mantığını **kavramaktır**. 
 
-* **Endüstriyel Yapay Zeka Optimizasyonu:** Aylık 30 Milyon TL cirolu bir fabrika için geliştirdiğim yapay zeka tabanlı optimizasyon çalışması ile şirketin **aylık 5 Milyon TL tasarruf** etmesini sağladım.
-* **Veri Bilimi ve Makine Öğrenimi:** Sahte haber tespiti (Fake News Detection), Covid-19 hasta tahmini gibi veri setleri üzerinde makine öğrenimi modelleri geliştiriyorum.
-* **Gelecek Hedefleri:** Teknofest projelerine hazırlanıyor, otonom sistemler, drone uçuş kontrol yazılımları (ArduPilot) ve yeni nesil teknolojiler üzerine araştırmalar yapıyorum. 
-
----
-
-### 🛠️ Teknoloji Yığınım (Tech Stack)
-
-* **Programlama Dilleri:** Python, SQL
-* **Veritabanı & Araçlar:** XAMPP, phpMyAdmin, Jupyter Notebook
-* **İlgi Alanları:** Makine Öğrenimi (Machine Learning), Veri Yapıları, Otonom Sistemler
-* **Ortamlar:** Windows, Ubuntu (Linux)
+Python benim için sadece bir programlama dili değil, bu bitmek bilmeyen merakımı doyurduğum, araştırma yaptığım ve hata yapmaktan korkmadığım bir oyun alanı. Her hatadan yeni bir şey öğreniyorum!
 
 ---
 
-### 🌐 Beni Takip Edin & İletişime Geçin
+### 🚀 Neler Keşfediyorum & Üzerinde Çalışıyorum?
 
-Projelerimden kesitler paylaştığım ve teknoloji serüvenimi anlattığım özel sosyal medya hesaplarımı aşağıdan takip edebilirsiniz:
+Öğrenme açlığımı dindirmek için şu an masamda şunlar var:
+* 🔍 **Python ile Derinleşme:** Sahte Haber Tespiti ve Covid-19 verileri gibi gerçek dünya veri setlerini kurcalıyor, makine öğrenimi modellerinin iç yüzünü öğreniyorum.
+* 🚁 **Otonom Sistemler & ArduPilot:** Teknofest hedefim doğrultusunda drone uçuş yazılımlarının nasıl derlendiğini, arka plandaki elektroniği ve otonom sistemleri araştırıyorum.
+* 🗄️ **Verinin Gücü:** İşin mutfağını sağlam tutmak için SQL ile veritabanı sorguları (JOIN, SELECT vs.) üzerine sık sık pratikler yapıyorum.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#) > 💡 *Her türlü proje, staj fırsatı (Kastamonu, Gaziantep ve ötesi) ve teknoloji sohbeti için benimle iletişime geçebilirsiniz!*
+---
+
+### 🧰 Öğrenirken Kullandığım Araçlar
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,ubuntu,linux,vscode,github&theme=dark" alt="Yetenek İkonları" />
+  </a>
+</p>
+
+---
+
+### 🏆 Öğrenme Serüvenim (İstatistiklerim)
+
+Öğrendikçe yeşeren, kod yazdıkça büyüyen GitHub istatistiklerim:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-huseyin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="En Çok Kullandığım Diller" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-huseyin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Genel İstatistikler" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ai-huseyin&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="Kod Yazma Serisi" />
+</div>
+
+---
+
+### 🤝 Birlikte Öğrenelim!
+
+Yeni fikirler tartışmak, vizyon katacak staj/proje (Kastamonu, Gaziantep ve ötesi) fırsatları yakalamak ve öğrenme serüvenimi takip etmek isterseniz bana her zaman ulaşabilirsiniz. Öğrenilecek çok şey var!
+
+<p align="center">
+  <a href="https://www.youtube.com/@ai.huseyin"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ai.huseyin"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
