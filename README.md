@@ -54,8 +54,7 @@ Python benim için sadece bir programlama dili değil, bu bitmek bilmeyen merak�
 
 ### 🤝 Birlikte Öğrenelim!
 
-Yeni teknolojiler üzerine tartışmak, öğrenme serüvenime ortak olmak isterseniz bana her zaman ulaşabilirsiniz. Yapay zeka dünyasında keşfedilecek çok yol, öğrenilecek çok şey var!
-
+Yeni teknolojiler üzerine tartışmak veya öğrenme serüvenime ortak olmak isterseniz bana her zaman ulaşabilirsiniz. Yapay zeka dünyasında keşfedilecek çok yol, öğrenilecek çok şey var!
 
 
 <p align="center">
