@@ -54,7 +54,9 @@ Python benim için sadece bir programlama dili değil, bu bitmek bilmeyen merak�
 
 ### 🤝 Birlikte Öğrenelim!
 
-Yeni fikirler tartışmak, vizyon katacak staj/proje (Kastamonu, Gaziantep ve ötesi) fırsatları yakalamak ve öğrenme serüvenimi takip etmek isterseniz bana her zaman ulaşabilirsiniz. Öğrenilecek çok şey var!
+Yeni teknolojiler üzerine tartışmak, öğrenme serüvenime ortak olmak isterseniz bana her zaman ulaşabilirsiniz. Yapay zeka dünyasında keşfedilecek çok yol, öğrenilecek çok şey var!
+
+
 
 <p align="center">
   <a href="https://www.youtube.com/@ai.huseyin"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
